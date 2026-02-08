@@ -1,5 +1,5 @@
 
-# Datafold 🧩  
+# Datafold   
 Mini application React consommant la PokéAPI
 
 Datafold est une mini application front-end développée avec **React** et **Vite**, visant à démontrer la consommation d’une API externe, la gestion d’état côté client et une interface utilisateur simple mais complète.
